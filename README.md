@@ -7,6 +7,13 @@ I'm a Canadian Expat currerntly working at Intuit in Sillicon Valley 👨‍💻
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/cole-mackenzie)
 - 😄 Pronouns: he/him
 
+## Developer Stats
+
+![Cole's github stats](https://github-readme-stats.vercel.app/api?username=cmackenzie1&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmackenzie1&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cmackenzie1/cmackenzie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
