@@ -7,6 +7,8 @@ Software Engineer on Intuit's Data Platform in Sillicon Valley 👨‍💻.
 - 🔨 I'm currently working on building Big Data Pipelines at Intuit using Apache Kafka, Spark, Beam, Hive and more.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/cole-mackenzie)
 
+#### 👉👉 [Advent of Code 2020](https://github.com/cmackenzie1/adventofcode)👈 👈
+
 #### Languages and Frameworks
 <p align="left">
 <img alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
