@@ -32,7 +32,7 @@ Software Engineer on Intuit's Data Platform in Sillicon Valley 👨‍💻.
 <img alt="Elasticsearch" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/elasticsearch/elasticsearch.png" />
 </p>
 
-#### Developer Tols
+#### Developer Tools
 <p align="left">
 <img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
