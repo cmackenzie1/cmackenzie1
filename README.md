@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 
-Software Engineer on Intuit's Data Platform in Sillicon Valley 👨‍💻.
+Systems Engineer at Cloudflare.
 
-- 🔨 I'm currently working on building Big Data Pipelines at Intuit using Apache Kafka, Spark, Beam, Hive and more.
+- 🔨 I'm currently working on making the internet faster, safer, and more reliable.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/cole-mackenzie)
 
 #### Languages and Frameworks
 
 <p align="left">
+<img alt="Go" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img alt="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
@@ -18,9 +19,9 @@ Software Engineer on Intuit's Data Platform in Sillicon Valley 👨‍💻.
 #### Clouds and Platforms
 
 <p align="left">
+<img alt="K8s" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/kubernetes/kubernetes.png"/>
 <img alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/aws/aws.png"/> 
 <img alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/docker/docker.png"/> 
-<img alt="K8s" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/kubernetes/kubernetes.png"/>
 <img alt="Jenkins" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/jenkins/jenkins.png"/>
 <img alt="Nginx" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/nginx/nginx.png"/>
 </p>
