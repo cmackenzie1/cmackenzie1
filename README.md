@@ -18,6 +18,10 @@ Systems Engineer at Cloudflare.
 
 #### Clouds and Platforms
 
+My hobby cloud of choice is Digital Ocean.
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=6710fbd9c145&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <p align="left">
 <img alt="K8s" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/kubernetes/kubernetes.png"/>
 <img alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/aws/aws.png"/> 
