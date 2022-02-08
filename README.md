@@ -3,7 +3,7 @@
 
 Systems Engineer at Cloudflare.
 
-- 🔨 I'm currently working on making the internet faster, safer, and more reliable.
+- 🔨 I'm currently working on making the Internet faster, safer, and more reliable.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/cole-mackenzie)
 
 #### Languages and Frameworks
