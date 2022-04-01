@@ -11,9 +11,9 @@ Systems Engineer at Cloudflare.
 <p align="left">
 <img alt="Go" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img alt="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img alt="Spring" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/spring/spring.png"/>
+<!-- <img alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> -->
+<!-- <img alt="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /> -->
+<!-- <img alt="Spring" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/spring/spring.png"/> -->
 </p>
 
 #### Clouds and Platforms
@@ -33,10 +33,11 @@ My hobby cloud of choice is Digital Ocean.
 #### Databases
 
 <p align="left">
-<img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<!-- <img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
 <img alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img alt="Hive" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
 <img alt="Elasticsearch" width="32px" src="https://raw.githubusercontent.com/github/explore/70eccce2b1618a3f84296e11ff86d368cac91d46/topics/elasticsearch/elasticsearch.png" />
+<img alt="ClickHouse" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clickhouse.png/440px-Clickhouse.png" />
 </p>
 
 #### Developer Tools
@@ -46,8 +47,8 @@ My hobby cloud of choice is Digital Ocean.
 <img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Intellij" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
 <img alt="Datagrip" width="32px" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" />
-<img alt="Gradle" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/gradle/gradle.png" />
-<img alt="Maven" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/maven/maven.png" />
+<!-- <img alt="Gradle" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/gradle/gradle.png" /> -->
+<!-- <img alt="Maven" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/maven/maven.png" /> -->
 </p>
 
 ## Developer Stats
