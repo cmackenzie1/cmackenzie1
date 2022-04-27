@@ -6,6 +6,11 @@ Systems Engineer at Cloudflare.
 - 🔨 I'm currently working on making the Internet faster, safer, and more reliable.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/cole-mackenzie)
 
+### What I currently work on
+- [Cloudflare Logs](https://developers.cloudflare.com/logs/)
+- [Cloudflare Instant Logs](https://blog.cloudflare.com/how-we-built-instant-logs/)
+  - [Instant Logs on the CLI](https://blog.cloudflare.com/instant-logs-on-the-command-line/)
+
 #### Languages and Frameworks
 
 <p align="left">
