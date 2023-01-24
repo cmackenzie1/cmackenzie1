@@ -1,19 +1,19 @@
-### Hi there 👋
+# Hey there 👋
+
+## Introduction
+
+My name is Cole MacKenzie and I am a Systems Engineer @ Cloudflare working on making the Internet faster, safer, and more reliable. 
+
+If you are tring to reach me, send me a message on [LinkedIn](https://linkedin.com/in/cole-mackenzie).
+
+While you're here, be sure to checkout my [personal](https://mirio.dev) and [Cloudflare](https://blog.cloudflare.com/author/cole/) blog posts. 
 
 
-Systems Engineer at Cloudflare.
+### Cloudflare
 
-- 🔨 I'm currently working on making the Internet faster, safer, and more reliable.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/cole-mackenzie)
+- [How we built Instant Logs](https://blog.cloudflare.com/how-we-built-instant-logs/)
+- [Instant Logs on the CLI](https://blog.cloudflare.com/instant-logs-on-the-command-line/)
 
-### What I currently work on
-- [Cloudflare Logs](https://developers.cloudflare.com/logs/)
-- [Cloudflare Instant Logs](https://blog.cloudflare.com/how-we-built-instant-logs/)
-  - [Instant Logs on the CLI](https://blog.cloudflare.com/instant-logs-on-the-command-line/)
-
-## Developer Stats
+## Developer stats
 
 ![Cole's github stats](https://github-readme-stats.vercel.app/api?username=cmackenzie1&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmackenzie1&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
