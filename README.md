@@ -13,6 +13,7 @@ While you're here, be sure to checkout my [personal](https://mirio.dev) and [Clo
 
 - [How we built Instant Logs](https://blog.cloudflare.com/how-we-built-instant-logs/)
 - [Instant Logs on the CLI](https://blog.cloudflare.com/instant-logs-on-the-command-line/)
+- [Log Explorer: monitor security events without third-party storage](https://blog.cloudflare.com/log-explorer)
 
 ## Developer stats
 
