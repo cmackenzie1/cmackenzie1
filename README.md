@@ -4,7 +4,7 @@
 
 My name is Cole MacKenzie and I am a Systems Engineer @ Cloudflare working on making the Internet faster, safer, and more reliable. 
 
-If you are tring to reach me, send me a message on [LinkedIn](https://linkedin.com/in/cole-mackenzie).
+If you are trying to reach me, send me a message on [LinkedIn](https://linkedin.com/in/cole-mackenzie).
 
 While you're here, be sure to checkout my [personal](https://mirio.dev) and [Cloudflare](https://blog.cloudflare.com/author/cole/) blog posts. 
 
