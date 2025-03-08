@@ -28,8 +28,8 @@ I've had the opportunity to build several impactful projects at Cloudflare:
 ### Side Projects
 
 - 📝 [**Personal Blog**](https://mirio.dev) - Where I write about my experiences and learnings
-- ⛩️ [**Torii**](https://github.com/cole-mackenzie/torii-rs) - A powerful authentication framework for Rust applications that gives you complete control over your users' data.
-- ⚡️ [**Holster**](https://github.com/cole-mackenzie/holster) - A collection of Cloudflare Workers and APIs that I've built over the years.
+- ⛩️ [**Torii**](https://github.com/cmackenzie1/torii-rs) - A powerful authentication framework for Rust applications that gives you complete control over your users' data.
+- ⚡️ [**Holster**](https://github.com/cmackenzie1/holster) - A collection of Cloudflare Workers and APIs that I've built over the years.
 - 🔑 [**uuidgen.dev**](https://uuidgen.dev/) - An API to generate UUIDs at web-scale.
 
 ## 🧰 Technical Stack
