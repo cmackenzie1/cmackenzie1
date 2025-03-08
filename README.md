@@ -9,7 +9,7 @@ If you are trying to reach me, send me a message on [LinkedIn](https://linkedin.
 While you're here, be sure to checkout my [personal](https://mirio.dev) and [Cloudflare](https://blog.cloudflare.com/author/cole/) blog posts. 
 
 
-### Cloudflare
+### Projects I've built at Cloudflare:
 
 - [How we built Instant Logs](https://blog.cloudflare.com/how-we-built-instant-logs/)
 - [Instant Logs on the CLI](https://blog.cloudflare.com/instant-logs-on-the-command-line/)
