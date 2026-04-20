@@ -8,7 +8,7 @@
 
 ## 🔭 About Me
 
-I'm a systems engineer focused on building distributed systems that process billions of events daily. At Cloudflare, I work on high-throughput data pipelines and real-time analytics systems that help organizations derive insights from massive volumes of data. I'm passionate about designing resilient architectures that can scale seamlessly while maintaining performance and reliability.
+I'm a systems engineer focused on building distributed systems that process billions of events per second. At Cloudflare, I work on high-throughput data pipelines and real-time analytics systems that help organizations derive insights from massive volumes of data. I'm passionate about designing resilient architectures that can scale seamlessly while maintaining performance and reliability.
 
 - 🛠️ Working on logging systems and security tools at Cloudflare
 - 📝 Writing about tech on my [personal blog](https://mirio.dev) and the [Cloudflare blog](https://blog.cloudflare.com/author/cole/)
