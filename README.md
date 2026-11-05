@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Cole MacKenzie</div>
 
 <div align="center">
-  <strong>Systems Engineer @ Cloudflare</strong> | Helping make the Internet faster, safer, and more reliable
+  <strong>Systems Engineer @ Cloudflare(Basin Pipelines) </strong> | Helping make the Internet faster, safer, and more reliable
 </div>
 
 <br />
@@ -11,7 +11,7 @@
 I'm a systems engineer focused on building distributed systems that process billions of events per second. At Cloudflare, I work on high-throughput data pipelines and real-time analytics systems that help organizations derive insights from massive volumes of data. I'm passionate about designing resilient architectures that can scale seamlessly while maintaining performance and reliability.
 
 - 🛠️ Working on logging systems and security tools at Cloudflare
-- 📝 Writing about tech on my [personal blog](https://mirio.dev) and the [Cloudflare blog](https://blog.cloudflare.com/author/cole/)
+- 📝 Writing about tech on my [personal blog](https://cdm.dev) and the [Cloudflare blog](https://blog.cloudflare.com/author/cole/)
 - 🌱 Always learning and experimenting with new technologies
 - 🤔 Interested in distributed systems, observability, and cloud security
 
@@ -27,7 +27,7 @@ I've had the opportunity to build several impactful projects at Cloudflare:
 
 ### Side Projects
 
-- 📝 [**Personal Blog**](https://mirio.dev) - Where I write about my experiences and learnings
+- 📝 [**Personal Blog**](https://cdm.dev) - Where I write about my experiences and learnings
 - ⛩️ [**Torii**](https://github.com/cmackenzie1/torii-rs) - A powerful authentication framework for Rust applications that gives you complete control over your users' data.
 - ⚡️ [**Holster**](https://github.com/cmackenzie1/holster) - A collection of Cloudflare Workers and APIs that I've built over the years.
 - 🔑 [**uuidgen.dev**](https://uuidgen.dev/) - An API to generate UUIDs at web-scale.
@@ -48,15 +48,9 @@ I've had the opportunity to build several impactful projects at Cloudflare:
   <a href="https://linkedin.com/in/cole-mackenzie">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mirio.dev">
+  <a href="https://cdm.dev">
     <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmackenzie1&show_icons=true&theme=tokyonight" alt="Cole's GitHub stats" />
 </div>
 
 ---
